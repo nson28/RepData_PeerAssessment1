@@ -1,5 +1,5 @@
 # Running Web Application
-[Click Here](https://nson28.github.io/RepData_PeerAssessment1/PA1_template.html)
+[Click here to view the  running web application](https://nson28.github.io/RepData_PeerAssessment1/PA1_template.html)
 
 ## Introduction
 
